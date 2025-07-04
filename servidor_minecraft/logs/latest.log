@@ -544,3 +544,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [04Jul2025 18:52:30.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxisccs[/127.121.40.59:45037] logged in with entity id 2705 at (6548.41184578642, 109.67647087614428, -3100.0133281564804)
 [04Jul2025 18:52:30.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs joined the game
 [04Jul2025 18:52:40.595] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[04Jul2025 19:08:54.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs moved wrongly!
+[04Jul2025 19:09:40.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Sunken City]
+[04Jul2025 19:11:41.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CarlitosBot1[/127.244.235.155:34771] logged in with entity id 29647 at (892.0250060012382, 177.0, 2931.3015274150575)
+[04Jul2025 19:11:41.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 joined the game
+[04Jul2025 19:11:46.404] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[04Jul2025 19:12:08.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17847ms or 356 ticks behind
+[04Jul2025 19:12:08.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 1.7293995370854418,1.1661092609382138,9.908190941748217
+[04Jul2025 19:12:29.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> wtf con las elytras
+[04Jul2025 19:12:32.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> q de q
+[04Jul2025 19:12:40.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> usalas
+[04Jul2025 19:12:43.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! -4.453436951470053,-2.1695196950044817,-17.80574254059229
+[04Jul2025 19:12:46.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> normal
+[04Jul2025 19:12:50.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> yo las estaba usando
+[04Jul2025 19:13:04.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 1.2344199742543651,-10.715113223713132,14.156174248188563
+[04Jul2025 19:13:12.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[04Jul2025 19:13:12.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Sunken City]
+[04Jul2025 19:13:27.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> y el lugar donde encontraste la ca;a
+[04Jul2025 19:13:44.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> horita te llevo
+[04Jul2025 19:15:00.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 889.500000, 177.500000, 2942.500000]
+[04Jul2025 19:15:51.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4356ms or 87 ticks behind
+[04Jul2025 19:15:51.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> q lag
+[04Jul2025 19:18:10.745] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[04Jul2025 19:18:46.500] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/35328, l='ServerLevel[world]', x=1446.06, y=101.00, z=2708.30] died: Undead Knight was slain by CarlitosBot1
+[04Jul2025 19:18:55.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> tu tienes el tp de la casa?
+[04Jul2025 19:19:03.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> de la base si
+[04Jul2025 19:19:15.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 889.500000, 177.500000, 2942.500000]
+[04Jul2025 19:19:22.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
+[04Jul2025 19:19:35.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
