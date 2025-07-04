@@ -1087,6 +1087,7 @@
       "highland": "2025-06-29 04:57:36 +0000",
       "jacaranda_glade": "2025-06-29 04:16:59 +0000",
       "jade_cliffs": "2025-06-30 00:00:05 +0000",
+      "mystic_grove": "2025-07-04 20:36:32 +0000",
       "old_growth_woodland": "2025-06-28 23:05:05 +0000",
       "maple_woods": "2025-06-28 23:45:07 +0000",
       "crystalline_chasm": "2025-06-29 03:32:46 +0000",
@@ -7088,6 +7089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-04 20:19:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-04 18:55:08 +0000"
@@ -7181,6 +7188,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-07-04 18:55:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-04 20:19:45 +0000"
     },
     "done": true
   },

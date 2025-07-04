@@ -744,3 +744,78 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [04Jul2025 20:21:19.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si sirve
 [04Jul2025 20:21:35.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
 [04Jul2025 20:21:46.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> mira esta esapda
+[04Jul2025 20:22:03.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1752, y=304, z=3872} BlockPos{x=1753, y=302, z=3872}
+[04Jul2025 20:22:09.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> mira las espada
+[04Jul2025 20:22:55.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
+[04Jul2025 20:23:06.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 20:23:46.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 883.500000, 132.500000, 2965.500000]
+[04Jul2025 20:24:55.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/26, l='ServerLevel[world]', x=35.30, y=67.41, z=52.30] died: Undead Knight was killed
+[04Jul2025 20:24:55.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs was killed
+[04Jul2025 20:24:55.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 was killed
+[04Jul2025 20:24:55.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Antjedine'/91674, l='ServerLevel[world]', x=1763.13, y=294.00, z=3871.67] died, message: 'Antjedine (Staying) was killed'
+[04Jul2025 20:24:55.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Antjedine'/91674, l='ServerLevel[world]', x=1763.13, y=294.00, z=3871.67] died: Antjedine (Staying) was killed
+[04Jul2025 20:24:55.244] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/92463, l='ServerLevel[world]', x=1851.58, y=279.85, z=3823.31] died: Honeyed Archer was killed
+[04Jul2025 20:24:55.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was killed
+[04Jul2025 20:24:55.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/97337, l='ServerLevel[world]', x=155.96, y=64.85, z=174.69] died: Honeyed Archer was killed
+[04Jul2025 20:24:55.266] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['nena hodly'/98819, l='ServerLevel[world]', x=833.50, y=182.07, z=2961.50] died, message: 'nena hodly was killed'
+[04Jul2025 20:24:55.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['nena hodly'/98819, l='ServerLevel[world]', x=833.50, y=182.07, z=2961.50] died: nena hodly was killed
+[04Jul2025 20:24:55.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kolbrún'/98821, l='ServerLevel[world]', x=836.50, y=182.00, z=2956.50] died, message: 'Kolbrún was killed'
+[04Jul2025 20:24:55.277] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kolbrún'/98821, l='ServerLevel[world]', x=836.50, y=182.00, z=2956.50] died: Kolbrún was killed
+[04Jul2025 20:24:55.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['elfa'/98826, l='ServerLevel[world]', x=831.50, y=182.07, z=2961.50] died, message: 'elfa was killed'
+[04Jul2025 20:24:55.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['elfa'/98826, l='ServerLevel[world]', x=831.50, y=182.07, z=2961.50] died: elfa was killed
+[04Jul2025 20:24:55.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['papu'/98828, l='ServerLevel[world]', x=829.50, y=182.07, z=2961.50] died, message: 'papu was killed'
+[04Jul2025 20:24:55.284] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['papu'/98828, l='ServerLevel[world]', x=829.50, y=182.07, z=2961.50] died: papu was killed
+[04Jul2025 20:24:55.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Killed 918 entities]
+[04Jul2025 20:24:59.305] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[04Jul2025 20:24:59.447] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[04Jul2025 20:24:59.474] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 20:25:01.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ok
+[04Jul2025 20:25:03.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1759.500000, 301.500000, 3873.500000]
+[04Jul2025 20:25:03.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 1769.500000, 297.500000, 3861.500000]
+[04Jul2025 20:25:05.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> durisima la exp
+[04Jul2025 20:25:09.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 883.500000, 132.500000, 2960.500000]
+[04Jul2025 20:25:34.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2509.500000]
+[04Jul2025 20:25:46.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[04Jul2025 20:27:13.727] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28bef8d2[id=<null>,name=Frist,properties={},legacy=false] (/127.181.228.108:42539) lost connection: Disconnected
+[04Jul2025 20:29:08.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BruhYoichi[/127.140.124.193:57035] logged in with entity id 104430 at (891.240310412608, 177.0, 2938.6416280605567)
+[04Jul2025 20:29:08.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi joined the game
+[04Jul2025 20:29:19.888] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 20:29:20.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
+[04Jul2025 20:29:47.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Super Creeps]
+[04Jul2025 20:31:01.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 20:31:01.584] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[04Jul2025 20:31:33.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> mas lejos tal vez
+[04Jul2025 20:31:40.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si
+[04Jul2025 20:31:42.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> es por area
+[04Jul2025 20:32:38.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/105291, l='ServerLevel[world]', x=2010.70, y=275.01, z=3808.42] died: Dinnerbone was shot by Dinnerbone
+[04Jul2025 20:32:42.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ten
+[04Jul2025 20:32:48.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/106620, l='ServerLevel[world]', x=2009.66, y=275.01, z=3810.30] died: Dinnerbone was shot by Dinnerbone
+[04Jul2025 20:32:53.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/105970, l='ServerLevel[world]', x=1994.67, y=275.01, z=3820.85] died: Dinnerbone was shot by Dinnerbone
+[04Jul2025 20:32:53.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to BruhYoichi]
+[04Jul2025 20:33:14.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> tienes diamantes carlitos?
+[04Jul2025 20:34:37.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 883.500000, 132.500000, 2965.500000]
+[04Jul2025 20:34:49.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Cowiusdav the Doominator'/108809, l='ServerLevel[world]', x=858.25, y=-46.00, z=2795.87] died: Cowiusdav the Doominator was slain by CarlitosBot1
+[04Jul2025 20:34:56.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> yo te iba a dar
+[04Jul2025 20:34:57.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q dices
+[04Jul2025 20:35:35.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 892.500000, 177.500000, 2944.500000]
+[04Jul2025 20:35:43.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 20:36:05.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 883.500000, 132.500000, 2965.500000]
+[04Jul2025 20:36:39.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 20:37:45.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 20:38:35.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04Jul2025 20:38:52.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
+[04Jul2025 20:39:10.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[04Jul2025 20:39:28.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Jul2025 20:39:38.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> maxi
+[04Jul2025 20:39:42.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> te tengo algo pa tu casa
+[04Jul2025 20:39:46.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[04Jul2025 20:39:46.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[04Jul2025 20:40:22.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> son como una puerta automatica
+[04Jul2025 20:41:03.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was shot by Wither Skeleton
+[04Jul2025 20:41:05.425] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 20:41:07.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 48.500000, 235.500000, 2951.500000]
+[04Jul2025 20:41:18.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ese tipo esta duro
+[04Jul2025 20:41:52.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[04Jul2025 20:42:11.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3308ms or 66 ticks behind
+[04Jul2025 20:42:14.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Gone Bananas!]
+[04Jul2025 20:42:36.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/111915, l='ServerLevel[world]', x=9.43, y=80.41, z=2957.92] died: Undead Knight suffocated in a wall
