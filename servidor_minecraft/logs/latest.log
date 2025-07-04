@@ -1072,3 +1072,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [04Jul2025 21:23:53.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
 [04Jul2025 21:23:53.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs moved too quickly! 9.837141881528169,-1.9476753038586878,-14.571034102450994
 [04Jul2025 21:24:04.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> a carlitos
+[04Jul2025 21:24:10.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ya supe hacer el ascensor pa mi casa
+[04Jul2025 21:24:17.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs moved too quickly! -2.446890715826612,-17.977999000904006,-5.9911681247059505
+[04Jul2025 21:24:17.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[04Jul2025 21:24:22.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs moved too quickly! 17.375119038523962,-0.07348648240598266,-4.259491928267437
+[04Jul2025 21:24:27.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[04Jul2025 21:24:29.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii fell from a high place
+[04Jul2025 21:24:30.852] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:24:34.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to -1325.500000, 85.500000, -467.500000]
+[04Jul2025 21:24:34.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
+[04Jul2025 21:24:40.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> toma
+[04Jul2025 21:24:53.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> me sobro eso
+[04Jul2025 21:25:12.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 21:25:29.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has completed the challenge [Titan-Forged]
+[04Jul2025 21:25:32.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
+[04Jul2025 21:25:41.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[04Jul2025 21:26:20.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! -12.1951003759973,1.0,-7.801505411402104
+[04Jul2025 21:26:22.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! -1.2488481473340016,13.949333971589112,-7.364278620540517
+[04Jul2025 21:28:42.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[04Jul2025 21:28:53.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> toma
+[04Jul2025 21:28:53.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs moved wrongly!
+[04Jul2025 21:29:07.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q era eso
+[04Jul2025 21:29:22.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> yo tengo este yoichi
+[04Jul2025 21:30:53.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
+[04Jul2025 21:30:57.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[04Jul2025 21:31:20.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 9.800395563910683,-0.4641593749554431,-2.4098071613252614
+[04Jul2025 21:31:28.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16475ms or 329 ticks behind
+[04Jul2025 21:31:35.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs moved too quickly! 9.290980132223694,-0.16610926093821377,3.9096307072904892
+[04Jul2025 21:31:35.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frist[/127.120.211.26:59393] logged in with entity id 189713 at (10.5, 76.0, -3.5)
+[04Jul2025 21:31:35.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frist joined the game
+[04Jul2025 21:31:48.864] [Server thread/INFO] [do_a_barrel_roll/]: Client of Frist accepted server config.
+[04Jul2025 21:31:52.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 21:31:55.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11369ms or 227 ticks behind
+[04Jul2025 21:32:29.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1768.500000, 294.500000, 3867.500000]
+[04Jul2025 21:32:47.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no se
+[04Jul2025 21:32:55.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> pero mire
+[04Jul2025 21:32:57.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> hagamos algo
+[04Jul2025 21:33:04.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> en el ofi de hoy juega de mid y yo de dc
+[04Jul2025 21:33:13.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> dal
+[04Jul2025 21:33:15.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
+[04Jul2025 21:33:47.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> yo tengo
+[04Jul2025 21:33:49.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> dame diamantes
+[04Jul2025 21:33:58.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> coño 2 stag?
+[04Jul2025 21:34:01.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> tengo apenas 1
+[04Jul2025 21:34:12.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Jul2025 21:34:17.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> pero solo necesito 20
+[04Jul2025 21:34:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> te doy la mitad de lo q tengo
+[04Jul2025 21:34:29.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 883.500000, 132.500000, 2965.500000]
+[04Jul2025 21:34:32.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 21:34:54.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 21:34:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q pereza
+[04Jul2025 21:35:11.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> JAJJA
