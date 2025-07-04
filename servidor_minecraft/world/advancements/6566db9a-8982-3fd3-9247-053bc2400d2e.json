@@ -5983,6 +5983,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-07-04 21:37:53 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic": {
     "criteria": {
       "sword": "2025-07-04 21:25:29 +0000"

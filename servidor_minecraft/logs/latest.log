@@ -1123,3 +1123,74 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [04Jul2025 21:34:54.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
 [04Jul2025 21:34:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q pereza
 [04Jul2025 21:35:11.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> JAJJA
+[04Jul2025 21:35:13.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> el cambio
+[04Jul2025 21:35:19.897] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[04Jul2025 21:35:23.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[04Jul2025 21:35:56.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Frist]
+[04Jul2025 21:35:59.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitos
+[04Jul2025 21:36:01.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ya tengo las mejoras
+[04Jul2025 21:36:05.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ahora q tengo q hace
+[04Jul2025 21:36:12.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 21:36:13.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04Jul2025 21:36:53.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 883.500000, 132.500000, 2965.500000]
+[04Jul2025 21:36:56.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[04Jul2025 21:36:57.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frist has made the advancement [Alex's Mobs]
+[04Jul2025 21:37:34.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Jul2025 21:37:50.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 21:37:53.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has completed the challenge [Cover Me in Debris]
+[04Jul2025 21:37:59.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 883.500000, 132.500000, 2965.500000]
+[04Jul2025 21:37:59.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04Jul2025 21:38:07.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 889.500000, 177.500000, 2942.500000]
+[04Jul2025 21:38:13.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frist was blown up by Creeper
+[04Jul2025 21:38:13.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported Frist to CarlitosBot1]
+[04Jul2025 21:38:17.059] [Server thread/INFO] [do_a_barrel_roll/]: Client of Frist accepted server config.
+[04Jul2025 21:38:18.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2108, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:18.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2109, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:18.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2109, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:18.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2109, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:18.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2109, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:18.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2109, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:18.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2109, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:19.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2109, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:19.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2109, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:19.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2109, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:19.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2109, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:19.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2109, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:19.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2109, y=73, z=4423} BlockPos{x=2107, y=70, z=4422}
+[04Jul2025 21:38:20.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2107, y=72, z=4425} BlockPos{x=2107, y=71, z=4426}
+[04Jul2025 21:38:20.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2107, y=72, z=4425} BlockPos{x=2107, y=71, z=4426}
+[04Jul2025 21:38:24.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported Frist to CarlitosBot1]
+[04Jul2025 21:38:28.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2104, y=72, z=4422} BlockPos{x=2103, y=70, z=4421}
+[04Jul2025 21:38:28.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2104, y=72, z=4422} BlockPos{x=2103, y=70, z=4421}
+[04Jul2025 21:38:36.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frist lost connection: Timed out
+[04Jul2025 21:38:36.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frist left the game
+[04Jul2025 21:38:43.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2103, y=72, z=4431} BlockPos{x=2103, y=70, z=4431}
+[04Jul2025 21:39:18.670] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1cb5939f[id=<null>,name=Frist,properties={},legacy=false] (/127.120.211.26:52363) lost connection: Disconnected
+[04Jul2025 21:39:19.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 892.500000, 177.500000, 2944.500000]
+[04Jul2025 21:39:23.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1768.500000, 294.500000, 3867.500000]
+[04Jul2025 21:39:27.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frist[/127.120.211.26:38017] logged in with entity id 197500 at (895.6507658475681, 177.0, 2940.0584491050436)
+[04Jul2025 21:39:27.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frist joined the game
+[04Jul2025 21:39:36.684] [Server thread/INFO] [do_a_barrel_roll/]: Client of Frist accepted server config.
+[04Jul2025 21:41:17.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frist lost connection: Disconnected
+[04Jul2025 21:41:17.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frist left the game
+[04Jul2025 21:41:42.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[04Jul2025 21:42:58.189] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 21:43:05.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 21:43:30.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to BruhYoichi]
+[04Jul2025 21:43:32.428] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[04Jul2025 21:43:32.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[04Jul2025 21:44:13.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has completed the challenge [Cover Me in Debris]
+[04Jul2025 21:44:34.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> para
+[04Jul2025 21:44:35.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to semviii]
+[04Jul2025 21:44:35.380] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[04Jul2025 21:44:36.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> yo tengo
+[04Jul2025 21:44:46.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to Maxisccs]
+[04Jul2025 21:44:46.440] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 21:44:46.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ee
+[04Jul2025 21:44:47.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si
+[04Jul2025 21:44:49.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! -19.91235249257045,35.981251644435304,13.696508302141865
+[04Jul2025 21:44:53.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 888.500000, 177.500000, 2941.500000]
+[04Jul2025 21:44:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> donde estas
+[04Jul2025 21:44:58.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> JAJA
+[04Jul2025 21:45:03.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 6.4339593750735276,36.81339927262405,-10.389329596214793
+[04Jul2025 21:45:14.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> te empuja o q
