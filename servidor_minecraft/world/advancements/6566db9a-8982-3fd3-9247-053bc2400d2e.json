@@ -111,6 +111,7 @@
       "minecraft:deep_frozen_ocean": "2025-07-01 23:10:24 +0000",
       "minecraft:ocean": "2025-06-28 23:22:54 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-01 22:27:18 +0000",
+      "minecraft:snowy_beach": "2025-07-04 20:52:15 +0000",
       "minecraft:flower_forest": "2025-06-29 02:48:43 +0000",
       "minecraft:frozen_peaks": "2025-07-01 22:22:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-29 23:16:51 +0000",
@@ -1884,6 +1885,7 @@
       "jacaranda_glade": "2025-06-29 02:50:05 +0000",
       "jade_cliffs": "2025-06-29 23:55:46 +0000",
       "mystic_grove": "2025-07-01 01:46:33 +0000",
+      "cold_desert": "2025-07-04 20:49:38 +0000",
       "maple_woods": "2025-06-28 23:44:26 +0000",
       "orchard": "2025-06-28 23:03:33 +0000",
       "field": "2025-06-28 23:46:27 +0000",
@@ -5960,6 +5962,12 @@
   "deeperdarker:recipes/decorations/echo_fence": {
     "criteria": {
       "has_planks": "2025-07-03 03:18:36 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-07-04 20:53:54 +0000"
     },
     "done": true
   },

@@ -879,3 +879,78 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [04Jul2025 20:53:05.424] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lionfishapi:main_channel,aquamirae:main,the_bumblezone:networking,alexsmobs:main_channel,glitchcore:config_sync,mca:main,mofus_better_end_:mofus_better_end_,creativecore:main,citadel:main_channel,easymagic:1,securitycraft:securitycraft,obscure_api:obscure_api,sereneseasons:main,easyanvils:1,graveyard:spawn_entity,waystones:network,cataclysm:main_channel] rejected their client side version number
 [04Jul2025 20:53:05.424] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [04Jul2025 20:53:05.462] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54031ebe[id=<null>,name=Frist,properties={},legacy=false] (/127.120.211.26:42699) lost connection: Connection closed - mismatched mod channel list
+[04Jul2025 20:53:12.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3546ms or 70 ticks behind
+[04Jul2025 20:53:31.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Duke Steve the Boring'/125966, l='ServerLevel[world]', x=9.06, y=45.54, z=284.63] died: Duke Steve the Boring was slain by Zombified Piglin
+[04Jul2025 20:53:34.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7062ms or 141 ticks behind
+[04Jul2025 20:53:51.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[04Jul2025 20:53:53.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported BruhYoichi to CarlitosBot1]
+[04Jul2025 20:53:53.993] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 20:53:54.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [A Burning Arena]
+[04Jul2025 20:54:23.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was burnt to a crisp whilst fighting Ignis
+[04Jul2025 20:54:25.169] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 20:54:30.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[04Jul2025 20:54:30.859] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 20:54:32.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 99.500000, 65.500000, 517.500000]
+[04Jul2025 20:55:04.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was slain by Ignis
+[04Jul2025 20:55:06.425] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 20:55:07.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> JAJJA
+[04Jul2025 20:55:08.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[04Jul2025 20:55:08.950] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 20:55:10.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 108.500000, 65.500000, 520.500000]
+[04Jul2025 20:55:11.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was slain by Ignis
+[04Jul2025 20:55:13.943] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 20:55:15.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[04Jul2025 20:55:15.665] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 20:55:17.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 108.500000, 65.500000, 520.500000]
+[04Jul2025 20:56:38.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was slain by Ignis
+[04Jul2025 20:56:40.907] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 20:56:45.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[04Jul2025 20:56:45.197] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 20:56:46.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> vamo yoichiii
+[04Jul2025 20:56:46.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 122.500000, 65.500000, 518.500000]
+[04Jul2025 20:56:57.942] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lionfishapi:main_channel,aquamirae:main,the_bumblezone:networking,alexsmobs:main_channel,glitchcore:config_sync,mca:main,mofus_better_end_:mofus_better_end_,creativecore:main,citadel:main_channel,easymagic:1,securitycraft:securitycraft,obscure_api:obscure_api,sereneseasons:main,easyanvils:1,graveyard:spawn_entity,waystones:network,cataclysm:main_channel] rejected their client side version number
+[04Jul2025 20:56:57.942] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[04Jul2025 20:56:57.991] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a93a214[id=<null>,name=Frist,properties={},legacy=false] (/127.120.211.26:35489) lost connection: Connection closed - mismatched mod channel list
+[04Jul2025 20:57:22.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported semviii to CarlitosBot1]
+[04Jul2025 20:57:23.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [A Burning Arena]
+[04Jul2025 20:57:25.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was slain by Ignis
+[04Jul2025 20:57:29.520] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 20:57:30.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no mano
+[04Jul2025 20:57:42.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> cual ustedes yo estoy buscando netherita :C
+[04Jul2025 20:57:46.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> mis artefactos
+[04Jul2025 20:57:55.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported semviii to CarlitosBot1]
+[04Jul2025 20:57:55.822] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 20:58:44.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
+[04Jul2025 20:58:50.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii hit the ground too hard whilst trying to escape Ignis
+[04Jul2025 20:58:52.778] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 20:59:03.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported semviii to CarlitosBot1]
+[04Jul2025 20:59:03.622] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 20:59:13.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was burnt to a crisp whilst fighting Ignis
+[04Jul2025 20:59:15.217] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 20:59:19.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[04Jul2025 20:59:19.435] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 20:59:21.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 86.500000, 65.500000, 505.500000]
+[04Jul2025 21:01:49.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was killed by magic
+[04Jul2025 21:01:52.306] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:01:56.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 104.500000, 66.500000, 495.500000]
+[04Jul2025 21:01:56.831] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:01:57.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was slain by Ignis
+[04Jul2025 21:01:59.636] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:02:02.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 104.500000, 66.500000, 495.500000]
+[04Jul2025 21:02:03.098] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:02:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was killed by magic whilst trying to escape Ignis
+[04Jul2025 21:02:07.023] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:02:10.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 104.500000, 66.500000, 495.500000]
+[04Jul2025 21:02:11.067] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:02:14.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was slain by Ignis
+[04Jul2025 21:02:16.828] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:02:20.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 100.500000, 65.500000, 491.500000]
+[04Jul2025 21:02:21.250] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:02:26.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was slain by Ignis
+[04Jul2025 21:02:29.114] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:02:32.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 110.500000, 65.500000, 490.500000]
+[04Jul2025 21:02:32.447] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:02:55.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> toy fino :D
+[04Jul2025 21:03:06.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitos
+[04Jul2025 21:03:15.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ahora como vuelvo a mi coso con las netherita?
+[04Jul2025 21:03:22.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> nooo
