@@ -5969,12 +5969,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-04 22:01:52 +0000"
-    },
-    "done": false
-  },
   "deeperdarker:main/enter_otherside": {
     "criteria": {
       "otherside": "2025-07-04 21:47:53 +0000"

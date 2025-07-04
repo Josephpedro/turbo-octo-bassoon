@@ -1262,3 +1262,45 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [04Jul2025 22:04:30.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 7906.500000, 63.500000, -3684.500000]
 [04Jul2025 22:04:54.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
 [04Jul2025 22:05:41.532] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 22:06:22.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was slain by Max the Eagle
+[04Jul2025 22:06:24.577] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 22:06:29.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 59.500000, 70.500000, 292.500000]
+[04Jul2025 22:06:29.326] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 22:06:43.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Max the Eagle'/219950, l='ServerLevel[world]', x=58.30, y=68.00, z=291.47] died: Max the Eagle was slain by semviii
+[04Jul2025 22:06:53.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 888.500000, 177.500000, 2941.500000]
+[04Jul2025 22:07:54.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! -1.7035163262967217,23.030736692177584,9.605522901513723
+[04Jul2025 22:08:15.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [No Step on Snake]
+[04Jul2025 22:08:32.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[04Jul2025 22:08:58.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kenji'/222469, l='ServerLevel[world]', x=7900.50, y=63.00, z=-3676.47] died, message: 'Kenji was shot by CarlitosBot1'
+[04Jul2025 22:08:58.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kenji'/222469, l='ServerLevel[world]', x=7900.50, y=63.00, z=-3676.47] died: Kenji was shot by CarlitosBot1
+[04Jul2025 22:09:11.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Shino'/217448, l='ServerLevel[world]', x=7876.11, y=63.00, z=-3656.48] died, message: 'Shino was shot by CarlitosBot1'
+[04Jul2025 22:09:11.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Shino'/217448, l='ServerLevel[world]', x=7876.11, y=63.00, z=-3656.48] died: Shino was shot by CarlitosBot1
+[04Jul2025 22:09:22.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 22:09:23.184] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 22:09:28.115] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Michio'/217512, l='ServerLevel[world]', x=7832.93, y=64.00, z=-3635.80] died, message: 'Michio was shot by CarlitosBot1'
+[04Jul2025 22:09:28.116] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Michio'/217512, l='ServerLevel[world]', x=7832.93, y=64.00, z=-3635.80] died: Michio was shot by CarlitosBot1
+[04Jul2025 22:09:29.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has completed the challenge [Hunted]
+[04Jul2025 22:09:40.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> incinerador
+[04Jul2025 22:10:00.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 883.500000, 132.500000, 2963.500000]
+[04Jul2025 22:10:11.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> como hago la armadura de igni carlitos
+[04Jul2025 22:10:21.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 6875.500000, 93.500000, -2883.500000]
+[04Jul2025 22:10:21.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 9.801421318738903,0.7531999805212024,2.7562114319825923
+[04Jul2025 22:10:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> listo
+[04Jul2025 22:10:31.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> te hago un catalogo maxi?
+[04Jul2025 22:10:33.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2509.500000]
+[04Jul2025 22:11:01.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [They Grow Up So Fast]
+[04Jul2025 22:11:56.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 883.500000, 132.500000, 2965.500000]
+[04Jul2025 22:12:02.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 22:13:06.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> me falta un lingote igni quien tiene
+[04Jul2025 22:13:16.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04Jul2025 22:13:19.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[04Jul2025 22:13:31.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1768.500000, 294.500000, 3867.500000]
+[04Jul2025 22:13:31.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[04Jul2025 22:13:38.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[04Jul2025 22:13:43.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no tienen?
+[04Jul2025 22:13:58.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 22:14:11.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9885ms or 197 ticks behind
+[04Jul2025 22:14:11.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 9.999326666043089,0.0,-2.9000967538036093
+[04Jul2025 22:14:45.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 22:15:12.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 888.500000, 177.500000, 2941.500000]
+[04Jul2025 22:16:48.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 883.500000, 132.500000, 2963.500000]

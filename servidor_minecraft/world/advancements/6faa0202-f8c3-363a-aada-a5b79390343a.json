@@ -7225,6 +7225,12 @@
     },
     "done": true
   },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-07-04 22:09:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-07-04 20:29:51 +0000"
@@ -7270,6 +7276,12 @@
   "deeperdarker:recipes/misc/grime_brick": {
     "criteria": {
       "has_grime_ball": "2025-07-04 21:53:43 +0000"
+    },
+    "done": true
+  },
+  "mca:grow_adult": {
+    "criteria": {
+      "baby": "2025-07-04 22:11:01 +0000"
     },
     "done": true
   },
