@@ -1019,6 +1019,7 @@
       "porkchop": "2025-06-30 01:54:51 +0000",
       "tropical_fish": "2025-07-03 02:55:18 +0000",
       "potato": "2025-06-28 23:07:01 +0000",
+      "pumpkin_pie": "2025-07-04 21:01:37 +0000",
       "bread": "2025-06-28 22:59:05 +0000",
       "golden_apple": "2025-06-29 04:44:04 +0000",
       "rotten_flesh": "2025-06-28 22:24:36 +0000",
@@ -5598,6 +5599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-04 21:07:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2025-07-04 20:46:56 +0000"
@@ -5607,6 +5614,24 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-07-04 20:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-04 21:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-04 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-04 21:07:18 +0000"
     },
     "done": true
   },
@@ -5631,6 +5656,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-07-04 20:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-04 21:07:18 +0000"
     },
     "done": true
   },
