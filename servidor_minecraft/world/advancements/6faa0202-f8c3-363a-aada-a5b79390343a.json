@@ -97,9 +97,11 @@
       "minecraft:badlands": "2025-07-02 19:46:07 +0000",
       "minecraft:beach": "2025-06-29 03:09:10 +0000",
       "minecraft:dark_forest": "2025-06-28 21:17:29 +0000",
+      "minecraft:sparse_jungle": "2025-07-04 19:54:28 +0000",
       "minecraft:river": "2025-06-28 21:17:24 +0000",
       "minecraft:lukewarm_ocean": "2025-06-29 03:09:50 +0000",
       "minecraft:stony_shore": "2025-06-29 01:47:12 +0000",
+      "minecraft:jagged_peaks": "2025-07-04 20:14:50 +0000",
       "minecraft:cold_ocean": "2025-06-29 01:58:12 +0000",
       "minecraft:forest": "2025-06-28 21:17:57 +0000",
       "minecraft:lush_caves": "2025-06-29 23:36:15 +0000",
@@ -1002,6 +1004,7 @@
       "minecraft:witch": "2025-06-30 17:21:45 +0000",
       "minecraft:wither_skeleton": "2025-06-29 02:11:36 +0000",
       "minecraft:husk": "2025-06-30 01:28:26 +0000",
+      "minecraft:ender_dragon": "2025-07-04 19:38:48 +0000",
       "minecraft:shulker": "2025-07-02 01:20:45 +0000",
       "minecraft:cave_spider": "2025-06-28 23:08:07 +0000",
       "minecraft:piglin": "2025-06-30 20:59:32 +0000",
@@ -1531,6 +1534,7 @@
       "floodplain": "2025-06-28 23:02:04 +0000",
       "jade_cliffs": "2025-06-29 23:53:42 +0000",
       "mystic_grove": "2025-06-29 02:01:23 +0000",
+      "old_growth_woodland": "2025-07-04 19:51:20 +0000",
       "withered_abyss": "2025-07-02 20:00:35 +0000",
       "orchard": "2025-06-28 22:13:23 +0000",
       "field": "2025-06-29 01:59:19 +0000",
@@ -1550,7 +1554,8 @@
       "gravel_beach": "2025-06-29 02:22:07 +0000",
       "glowing_grotto": "2025-07-01 21:23:34 +0000",
       "undergrowth": "2025-06-29 03:52:42 +0000",
-      "rainforest": "2025-07-01 21:35:14 +0000"
+      "rainforest": "2025-07-01 21:35:14 +0000",
+      "crag": "2025-07-04 20:15:25 +0000"
     },
     "done": false
   },
@@ -7157,6 +7162,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-07-04 19:30:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-07-04 19:18:17 +0000"
@@ -7175,15 +7186,69 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-04 19:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-07-04 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-07-04 20:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-07-04 19:18:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-04 19:33:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-04 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-07-04 19:32:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-07-04 19:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-04 19:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-04 19:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-04 19:53:37 +0000"
     },
     "done": true
   },

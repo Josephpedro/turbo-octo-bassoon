@@ -115,6 +115,7 @@
       "minecraft:flower_forest": "2025-07-02 19:36:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-28 22:25:49 +0000",
       "minecraft:deep_dark": "2025-06-28 23:26:00 +0000",
+      "minecraft:meadow": "2025-07-04 19:51:22 +0000",
       "minecraft:savanna": "2025-06-28 23:01:51 +0000",
       "minecraft:plains": "2025-06-28 23:59:06 +0000"
     },
@@ -1117,7 +1118,8 @@
       "gravel_beach": "2025-06-28 23:44:03 +0000",
       "origin_valley": "2025-06-28 23:30:17 +0000",
       "undergrowth": "2025-06-29 03:50:00 +0000",
-      "rainforest": "2025-06-28 22:59:31 +0000"
+      "rainforest": "2025-06-28 22:59:31 +0000",
+      "crag": "2025-07-04 19:52:49 +0000"
     },
     "done": false
   },
@@ -7107,6 +7109,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-04 18:55:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-04 19:55:04 +0000"
     },
     "done": true
   },

@@ -659,3 +659,88 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [04Jul2025 19:29:47.169] [Worker-Main-138/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [04Jul2025 19:29:47.170] [Worker-Main-138/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [04Jul2025 19:29:47.170] [Worker-Main-138/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[04Jul2025 19:30:56.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has reached the goal [The Next Generation]
+[04Jul2025 19:31:02.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> q
+[04Jul2025 19:31:25.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Gave 4 [End Crystal] to CarlitosBot1]
+[04Jul2025 19:31:31.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> bro...
+[04Jul2025 19:31:36.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> q
+[04Jul2025 19:31:54.423] [Server thread/INFO] [betterendisland/]: Found all crystals, respawning dragon.
+[04Jul2025 19:32:24.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has reached the goal [The End... Again...]
+[04Jul2025 19:32:24.625] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}
+[04Jul2025 19:32:24.664] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}
+[04Jul2025 19:33:01.674] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:33:01.683] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:33:34.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 has made the advancement [Who is Cutting Onions?]
+[04Jul2025 19:34:08.137] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:34:23.738] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:34:34.349] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:34:47.132] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:34:47.136] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:35:40.104] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:36:09.034] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:36:19.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: The difficulty has been set to Hard]
+[04Jul2025 19:36:23.174] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:36:33.004] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:36:39.071] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:36:39.667] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:36:39.706] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:36:40.154] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:36:40.266] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:37:00.600] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:37:01.126] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:37:31.975] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:37:59.599] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:38:05.930] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:38:23.393] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:38:24.782] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 19:38:58.514] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=63, z=0}
+[04Jul2025 19:41:08.588] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[04Jul2025 19:47:00.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> carlitos
+[04Jul2025 19:47:02.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> dime
+[04Jul2025 19:47:12.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> go call
+[04Jul2025 19:47:20.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> go
+[04Jul2025 19:54:19.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1789.500000, 230.500000, 3801.500000]
+[04Jul2025 19:54:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1768.500000, 294.500000, 3867.500000]
+[04Jul2025 19:55:57.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! -4.478780600582468,-0.2336320060424839,-9.377676875494217
+[04Jul2025 19:56:06.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! -0.0654899547180321,3.0,-9.889385784576916
+[04Jul2025 20:01:24.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 6696.500000, 64.500000, -2509.500000]
+[04Jul2025 20:01:32.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 7906.500000, 63.500000, -3684.500000]
+[04Jul2025 20:06:19.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 889.500000, 177.500000, 2942.500000]
+[04Jul2025 20:07:08.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/86162, l='ServerLevel[world]', x=7969.85, y=76.25, z=-3705.54] died: Honeyed Archer suffocated in a wall
+[04Jul2025 20:10:36.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
+[04Jul2025 20:11:12.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1768.500000, 294.500000, 3867.500000]
+[04Jul2025 20:14:33.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: semviii[/127.239.46.137:58971] logged in with entity id 92822 at (6719.2461301565345, 69.0, -2529.1574673014766)
+[04Jul2025 20:14:33.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii joined the game
+[04Jul2025 20:14:42.355] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 20:14:50.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to Maxisccs]
+[04Jul2025 20:14:51.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitos eres un crack
+[04Jul2025 20:14:53.421] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Undead Knight'/91713, l='ServerLevel[world]', x=1769.01, y=204.41, z=3938.89] died: Undead Knight suffocated in a wall
+[04Jul2025 20:15:00.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[04Jul2025 20:15:10.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ya casi
+[04Jul2025 20:15:15.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> voy para el nether ahora
+[04Jul2025 20:15:44.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> JAJA
+[04Jul2025 20:16:14.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> xd
+[04Jul2025 20:16:18.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> como haces eso
+[04Jul2025 20:16:23.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> tengo full de esas
+[04Jul2025 20:16:30.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved wrongly!
+[04Jul2025 20:16:32.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no
+[04Jul2025 20:16:39.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> yo fui a un coso de esos
+[04Jul2025 20:16:43.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q
+[04Jul2025 20:16:47.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> linda si
+[04Jul2025 20:17:15.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> tienes es metido un cohete
+[04Jul2025 20:19:54.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Undead Knight'/94959, l='ServerLevel[world]', x=1765.39, y=216.41, z=3926.02] died: Undead Knight suffocated in a wall
+[04Jul2025 20:20:11.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to -1255.500000, 99.500000, 66.500000]
+[04Jul2025 20:20:12.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii fell from a high place
+[04Jul2025 20:20:14.967] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 20:20:19.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to -1255.500000, 84.500000, 66.500000]
+[04Jul2025 20:20:29.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 146.500000, 129.500000, 141.500000]
+[04Jul2025 20:20:31.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii fell from a high place
+[04Jul2025 20:20:33.378] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 20:20:35.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 146.500000, 73.500000, 141.500000]
+[04Jul2025 20:20:55.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si
+[04Jul2025 20:20:56.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> por eso
+[04Jul2025 20:20:59.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> me cai JAJJA
+[04Jul2025 20:21:15.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 883.500000, 132.500000, 2965.500000]
+[04Jul2025 20:21:19.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si sirve
+[04Jul2025 20:21:35.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
+[04Jul2025 20:21:46.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> mira esta esapda
