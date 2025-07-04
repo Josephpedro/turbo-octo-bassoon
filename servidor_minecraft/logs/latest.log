@@ -819,3 +819,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [04Jul2025 20:42:11.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3308ms or 66 ticks behind
 [04Jul2025 20:42:14.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Gone Bananas!]
 [04Jul2025 20:42:36.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/111915, l='ServerLevel[world]', x=9.43, y=80.41, z=2957.92] died: Undead Knight suffocated in a wall
+[04Jul2025 20:42:42.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[04Jul2025 20:43:00.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3405ms or 68 ticks behind
+[04Jul2025 20:43:21.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii was doomed to fall by Wither Skeleton
+[04Jul2025 20:43:23.216] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 20:43:25.650] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/113838, l='ServerLevel[world]', x=-38.22, y=151.96, z=2975.51] died: Honeyed Archer suffocated in a wall
+[04Jul2025 20:43:25.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 64.500000, 78.500000, 2966.500000]
+[04Jul2025 20:43:55.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Jul2025 20:44:13.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Jul2025 20:44:19.876] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[04Jul2025 20:44:28.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 20:44:31.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3251ms or 65 ticks behind
+[04Jul2025 20:44:57.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 20:44:57.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[04Jul2025 20:45:08.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 892.500000, 177.500000, 2944.500000]
+[04Jul2025 20:45:12.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1768.500000, 294.500000, 3867.500000]
+[04Jul2025 20:45:15.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 11488.500000, 90.000000, 2000.500000]
+[04Jul2025 20:45:57.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 20:45:57.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1752, y=291, z=3876} BlockPos{x=1750, y=290, z=3876}
+[04Jul2025 20:45:57.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1752, y=291, z=3876} BlockPos{x=1750, y=290, z=3876}
+[04Jul2025 20:45:57.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1752, y=291, z=3876} BlockPos{x=1750, y=290, z=3876}
+[04Jul2025 20:45:58.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1752, y=291, z=3876} BlockPos{x=1750, y=290, z=3876}
+[04Jul2025 20:45:58.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1752, y=291, z=3876} BlockPos{x=1750, y=290, z=3876}
+[04Jul2025 20:45:58.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1751, y=291, z=3877} BlockPos{x=1750, y=290, z=3877}
+[04Jul2025 20:45:59.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1751, y=291, z=3878} BlockPos{x=1751, y=290, z=3879}
+[04Jul2025 20:46:09.754] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 20:46:14.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Jul2025 20:46:33.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3744ms or 74 ticks behind
+[04Jul2025 20:46:52.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[04Jul2025 20:47:09.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[04Jul2025 20:47:26.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[04Jul2025 20:47:29.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> carlitos
+[04Jul2025 20:47:32.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> digalo
+[04Jul2025 20:47:39.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> la capa para los escombros de netherita es la 13 no?
+[04Jul2025 20:47:44.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CarlitosBot1> 16
+[04Jul2025 20:47:54.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> ok
+[04Jul2025 20:48:12.129] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57e90fa7[id=<null>,name=Frist,properties={},legacy=false] (/127.120.211.26:47547) lost connection: Disconnected
+[04Jul2025 20:48:14.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Jul2025 20:48:37.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7374ms or 147 ticks behind
+[04Jul2025 20:48:56.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4268ms or 85 ticks behind
+[04Jul2025 20:49:15.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3738ms or 74 ticks behind
+[04Jul2025 20:49:37.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7513ms or 150 ticks behind
+[04Jul2025 20:49:41.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/118758, l='ServerLevel[world]', x=1847.46, y=276.85, z=3826.65] died: Honeyed Archer burned to death
+[04Jul2025 20:50:01.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Jul2025 20:50:32.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Jul2025 20:50:51.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[04Jul2025 20:51:08.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[04Jul2025 20:51:13.916] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62f6fd9c[id=<null>,name=Frist,properties={},legacy=false] (/127.120.211.26:34825) lost connection: Disconnected
+[04Jul2025 20:51:26.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3138ms or 62 ticks behind
+[04Jul2025 20:51:45.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3420ms or 68 ticks behind
+[04Jul2025 20:51:59.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 883.500000, 132.500000, 2965.500000]
+[04Jul2025 20:52:02.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[04Jul2025 20:52:04.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 889.500000, 177.500000, 2942.500000]
+[04Jul2025 20:52:36.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[04Jul2025 20:52:39.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Hidden in the Depths]
+[04Jul2025 20:52:42.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> por finnn
+[04Jul2025 20:52:53.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
+[04Jul2025 20:53:02.197] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[04Jul2025 20:53:05.424] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lionfishapi:main_channel,aquamirae:main,the_bumblezone:networking,alexsmobs:main_channel,glitchcore:config_sync,mca:main,mofus_better_end_:mofus_better_end_,creativecore:main,citadel:main_channel,easymagic:1,securitycraft:securitycraft,obscure_api:obscure_api,sereneseasons:main,easyanvils:1,graveyard:spawn_entity,waystones:network,cataclysm:main_channel] rejected their client side version number
+[04Jul2025 20:53:05.424] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[04Jul2025 20:53:05.462] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54031ebe[id=<null>,name=Frist,properties={},legacy=false] (/127.120.211.26:42699) lost connection: Connection closed - mismatched mod channel list
