@@ -23524,3 +23524,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [04Jul2025 22:14:45.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
 [04Jul2025 22:15:12.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 888.500000, 177.500000, 2941.500000]
 [04Jul2025 22:16:48.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 883.500000, 132.500000, 2963.500000]
+[04Jul2025 22:17:04.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 22:17:04.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 22:17:04.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 888.500000, 177.500000, 2941.500000]
+[04Jul2025 22:18:20.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[04Jul2025 22:18:28.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[04Jul2025 22:18:38.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> qqq
+[04Jul2025 22:18:39.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> nabi
+[04Jul2025 22:18:41.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> manoo
+[04Jul2025 22:18:47.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> como tiene esa skin?
+[04Jul2025 22:19:04.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> puedes cambiar a mi mujer?
+[04Jul2025 22:19:08.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 22:19:17.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to semviii]
+[04Jul2025 22:19:36.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to CarlitosBot1]
+[04Jul2025 22:19:47.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs has made the advancement [Best Friends Forever]
+[04Jul2025 22:20:01.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> la mia tiene uni de atacon titan
+[04Jul2025 22:22:04.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 22:22:04.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 22:22:06.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[04Jul2025 22:22:12.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> maxi
+[04Jul2025 22:22:21.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Honeyed Archer'/231316, l='ServerLevel[world]', x=1703.86, y=298.00, z=3909.01] died: Honeyed Archer was slain by CarlitosBot1
+[04Jul2025 22:22:30.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> maxi mira
+[04Jul2025 22:22:40.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi lost connection: Disconnected
+[04Jul2025 22:22:40.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi left the game
+[04Jul2025 22:22:48.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 22:23:43.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs lost connection: Disconnected
+[04Jul2025 22:23:43.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
+[04Jul2025 22:23:57.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 lost connection: Timed out
+[04Jul2025 22:23:57.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CarlitosBot1 left the game
+[04Jul2025 22:24:04.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 22:24:22.118] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Andreja}[style={}] has been infected
+[04Jul2025 22:24:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 22:24:56.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: semviii lost connection: Disconnected
+[04Jul2025 22:24:56.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii left the game
+[04Jul2025 22:27:04.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 22:27:04.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
