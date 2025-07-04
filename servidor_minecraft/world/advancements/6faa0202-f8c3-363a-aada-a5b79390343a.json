@@ -5147,6 +5147,7 @@
     "criteria": {
       "shattered": "2025-07-02 03:54:19 +0000",
       "phantom": "2025-06-30 03:40:46 +0000",
+      "stalker": "2025-07-04 21:57:11 +0000",
       "sculk_centipede": "2025-07-02 03:57:10 +0000",
       "sculk_leech": "2025-07-02 03:56:31 +0000",
       "warden": "2025-07-02 03:50:58 +0000",
@@ -7164,78 +7165,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 21:41:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 21:41:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 21:41:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 21:41:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 21:41:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 21:41:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 21:41:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 21:41:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 21:41:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 21:41:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 21:41:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-04 21:41:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-07-04 20:29:51 +0000"
@@ -7302,6 +7231,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_grime": {
+    "criteria": {
+      "has_grime_ball": "2025-07-04 21:53:43 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_infested_temple": {
     "criteria": {
       "location0": "2025-07-04 20:29:47 +0000"
@@ -7329,6 +7264,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-07-04 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/grime_brick": {
+    "criteria": {
+      "has_grime_ball": "2025-07-04 21:53:43 +0000"
     },
     "done": true
   },

@@ -1020,6 +1020,7 @@
       "tropical_fish": "2025-07-03 02:55:18 +0000",
       "potato": "2025-06-28 23:07:01 +0000",
       "pumpkin_pie": "2025-07-04 21:01:37 +0000",
+      "mutton": "2025-07-04 21:54:53 +0000",
       "bread": "2025-06-28 22:59:05 +0000",
       "golden_apple": "2025-06-29 04:44:04 +0000",
       "rotten_flesh": "2025-06-28 22:24:36 +0000",
@@ -4676,6 +4677,7 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "shattered": "2025-07-04 21:54:05 +0000",
       "phantom": "2025-06-30 03:56:11 +0000",
       "warden": "2025-06-30 02:08:09 +0000"
     },
@@ -5582,6 +5584,24 @@
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-07-04 21:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-04 21:59:07 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-07-04 21:54:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-04 21:27:33 +0000"
@@ -5591,6 +5611,18 @@
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-07-04 20:52:39 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:end_trims_advancement": {
+    "criteria": {
+      "end_trims_advancement_1": "2025-07-04 21:59:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-04 21:58:17 +0000"
     },
     "done": true
   },
@@ -5612,6 +5644,24 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/gloomslate_slab_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-07-04 21:55:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-07-04 21:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-04 21:27:33 +0000"
@@ -5624,9 +5674,39 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall": {
+    "criteria": {
+      "has_sculk_stone": "2025-07-04 21:54:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-04 21:27:33 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tiles_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye": {
+    "criteria": {
+      "has_gloomy_cactus": "2025-07-04 21:55:07 +0000"
     },
     "done": true
   },
@@ -5642,15 +5722,107 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-07-04 21:47:11 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-04 21:58:50 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-04 21:27:33 +0000"
     },
     "done": true
   },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-07-04 21:54:29 +0000",
+      "deeplands": "2025-07-04 21:53:17 +0000",
+      "blooming_caverns": "2025-07-04 21:51:57 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_wall_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-07-04 21:55:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_slab": {
+    "criteria": {
+      "has_gloomslate": "2025-07-04 21:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-07-04 21:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-07-04 21:07:18 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-07-04 21:54:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_sculk_stone": {
+    "criteria": {
+      "has_sculk_stone": "2025-07-04 21:54:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-07-04 21:46:31 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-04 21:59:35 +0000"
     },
     "done": true
   },
@@ -5666,15 +5838,51 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab": {
+    "criteria": {
+      "has_sculk_stone": "2025-07-04 21:54:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-04 21:27:33 +0000"
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/smooth_gloomslate": {
+    "criteria": {
+      "has_gloomslate": "2025-07-04 21:55:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_wall": {
+    "criteria": {
+      "has_gloomslate": "2025-07-04 21:55:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2025-07-04 21:07:18 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs": {
+    "criteria": {
+      "has_sculk_stone": "2025-07-04 21:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-04 21:58:44 +0000"
     },
     "done": true
   },
@@ -5690,9 +5898,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-07-04 21:54:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-07-04 20:52:39 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
     },
     "done": true
   },
@@ -5702,15 +5922,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-04 21:47:11 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-04 21:58:50 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs": {
+    "criteria": {
+      "has_gloomslate": "2025-07-04 21:55:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-07-04 20:40:39 +0000"
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-07-04 21:07:18 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
     },
     "done": true
   },
@@ -5726,6 +5988,24 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-07-04 21:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-07-04 21:27:33 +0000"
@@ -5738,15 +6018,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-07-04 21:59:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-07-04 21:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-07-04 21:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-04 21:58:17 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-07-04 21:55:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2025-07-04 20:46:56 +0000"
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-04 21:59:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-04 21:27:33 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-07-04 21:52:02 +0000"
     },
     "done": true
   },

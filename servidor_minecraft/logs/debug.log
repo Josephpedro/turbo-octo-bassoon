@@ -23402,3 +23402,79 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [04Jul2025 21:44:58.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> JAJA
 [04Jul2025 21:45:03.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 6.4339593750735276,36.81339927262405,-10.389329596214793
 [04Jul2025 21:45:14.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> te empuja o q
+[04Jul2025 21:46:41.692] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ancient_city took 22 ms
+[04Jul2025 21:46:45.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 1200.500000, 177.000000, 3696.500000]
+[04Jul2025 21:46:51.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 21:46:51.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 21:47:04.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[04Jul2025 21:47:48.008] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[04Jul2025 21:47:48.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 0.26080075403137926,98.0,2.667085427985967
+[04Jul2025 21:47:53.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Below the Bedrock]
+[04Jul2025 21:47:53.214] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 21:47:53.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi moved too quickly! 0.4912043456477022,96.48320590559561,7.045949709323395
+[04Jul2025 21:47:55.497] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 21:47:55.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi moved too quickly! 14.46307721623316,-93.79999995231628,-14.46312603243723
+[04Jul2025 21:47:59.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[04Jul2025 21:47:59.621] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 21:48:20.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> q
+[04Jul2025 21:48:31.047] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 21:49:04.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> maxi crafteo un coso pero no hace nada
+[04Jul2025 21:49:18.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> me tepeo
+[04Jul2025 21:49:21.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[04Jul2025 21:49:27.898] [Worker-Main-127/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[04Jul2025 21:49:34.898] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 21:49:38.607] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 21:49:50.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 21:50:03.550] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 21:50:06.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[04Jul2025 21:50:19.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no tengo
+[04Jul2025 21:50:34.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[04Jul2025 21:50:54.047] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_helmet/apotheosis:mythic/ABILITY/0.3!
+[04Jul2025 21:51:38.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> si yo te amo
+[04Jul2025 21:51:52.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 21:51:52.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 21:51:56.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: semviii has made the advancement [Below the Bedrock]
+[04Jul2025 21:51:56.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
+[04Jul2025 21:51:57.080] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:52:52.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> yo estoy aqui
+[04Jul2025 21:53:09.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> donde estas tu
+[04Jul2025 21:53:16.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to BruhYoichi]
+[04Jul2025 21:53:25.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> no
+[04Jul2025 21:53:30.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> estaba con carlitos
+[04Jul2025 21:53:50.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 1203.500000, 64.500000, 3702.500000]
+[04Jul2025 21:54:10.680] [Server thread/INFO] [do_a_barrel_roll/]: Client of CarlitosBot1 accepted server config.
+[04Jul2025 21:54:10.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlitosBot1 moved too quickly! 14.358762182742566,-93.79999995231628,-14.358810998946865
+[04Jul2025 21:54:28.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to BruhYoichi]
+[04Jul2025 21:55:18.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to CarlitosBot1]
+[04Jul2025 21:55:19.048] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 21:56:52.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 21:56:52.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 21:57:14.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> tienen un molde por ahi?
+[04Jul2025 21:57:18.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CarlitosBot1: Teleported CarlitosBot1 to 889.500000, 177.500000, 2942.500000]
+[04Jul2025 21:57:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> para armadura
+[04Jul2025 21:57:28.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi was slain by Warden
+[04Jul2025 21:57:29.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to CarlitosBot1]
+[04Jul2025 21:57:30.246] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
+[04Jul2025 21:57:30.252] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[04Jul2025 21:57:33.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 1206.500000, -52.500000, 3592.500000]
+[04Jul2025 21:57:44.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> esto es mejora
+[04Jul2025 21:57:56.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> necesito el molde para diseño
+[04Jul2025 21:58:24.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> voy
+[04Jul2025 21:58:27.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to Maxisccs]
+[04Jul2025 21:58:37.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> durol
+[04Jul2025 21:58:41.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> esta quedando bien
+[04Jul2025 21:59:14.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Captured!]
+[04Jul2025 21:59:17.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> dale
+[04Jul2025 21:59:24.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> gracias
+[04Jul2025 21:59:44.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> dale
+[04Jul2025 21:59:53.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 22:01:06.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 892.500000, 177.500000, 2944.500000]
+[04Jul2025 22:01:52.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 22:01:52.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 22:02:53.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <semviii> de ingniti?
+[04Jul2025 22:04:02.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 6719.500000, 69.500000, -2534.500000]
+[04Jul2025 22:04:21.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 883.500000, 132.500000, 2965.500000]
+[04Jul2025 22:04:24.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 883.500000, 132.500000, 2963.500000]
+[04Jul2025 22:04:30.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 7906.500000, 63.500000, -3684.500000]
+[04Jul2025 22:04:54.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [semviii: Teleported semviii to 888.500000, 178.500000, 2939.500000]
+[04Jul2025 22:05:41.532] [Server thread/INFO] [do_a_barrel_roll/]: Client of semviii accepted server config.
