@@ -1225,3 +1225,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [05Jul2025 16:36:15.515] [Worker-Main-21/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [768, 802], pos: BlockPos{x=12293, y=192, z=12832}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
 [05Jul2025 16:39:01.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Count Dariush the Magical'/31666, l='ServerLevel[world]', x=12114.42, y=68.40, z=12692.33] died: Count Dariush the Magical was shot by BruhYoichi
 [05Jul2025 16:39:07.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Ender Distancing]
+[05Jul2025 16:40:41.864] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Wally the ... Something'/32057, l='ServerLevel[world]', x=12055.25, y=78.43, z=12754.82] died: Wally the ... Something was shot by BruhYoichi
+[05Jul2025 16:41:10.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> bro
+[05Jul2025 16:41:31.408] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[05Jul2025 16:42:20.014] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[05Jul2025 16:42:55.587] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[05Jul2025 16:42:59.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 12108.500000, 62.500000, 12705.500000]
+[05Jul2025 16:43:03.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> estas en el end?
+[05Jul2025 16:43:06.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> s
+[05Jul2025 16:43:09.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to BruhYoichi]
+[05Jul2025 16:43:10.218] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[05Jul2025 16:43:16.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> bro estoy escuchando una voz de alguien haciendo bromas
+[05Jul2025 16:43:17.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 10457.500000, 59.500000, 11744.500000]
+[05Jul2025 16:43:24.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> suena como tio grandpa
+[05Jul2025 16:43:28.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> si
+[05Jul2025 16:43:34.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> es el herrkonig
+[05Jul2025 16:43:39.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> q sera eso
+[05Jul2025 16:43:49.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> una bruja
+[05Jul2025 16:43:52.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> q te da mierda
+[05Jul2025 16:43:55.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> si la ves matala
+[05Jul2025 16:44:12.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to -968.500000, 58.500000, -297.500000]
+[05Jul2025 16:44:25.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> ya viste lo de las elitras?
+[05Jul2025 16:44:29.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> s
+[05Jul2025 16:44:36.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> BRO
+[05Jul2025 16:44:38.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> hay endermans
+[05Jul2025 16:44:41.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> q te muerden
+[05Jul2025 16:44:44.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> xd
+[05Jul2025 16:44:45.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> y no te dejan hacer nd
+[05Jul2025 16:44:51.761] [Server thread/INFO] [do_a_barrel_roll/]: Client of Maxisccs accepted server config.
+[05Jul2025 16:44:58.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> dale yoichi
+[05Jul2025 16:45:23.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1768.500000, 294.500000, 3867.500000]
+[05Jul2025 16:45:38.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> sepa la bola de donde seran esos endermans
+[05Jul2025 16:45:46.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> xd
+[05Jul2025 16:47:15.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> voy a matar a ole
+[05Jul2025 16:47:20.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> q
+[05Jul2025 16:47:25.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Capsid-19]
+[05Jul2025 16:47:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> esta mujer sera solo mia
+[05Jul2025 16:49:08.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ole'/35219, l='ServerLevel[world]', x=1937.20, y=128.00, z=4158.64] died, message: 'Ole was slain by Maxisccs'
+[05Jul2025 16:49:08.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ole'/35219, l='ServerLevel[world]', x=1937.20, y=128.00, z=4158.64] died: Ole was slain by Maxisccs
+[05Jul2025 16:49:09.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> q
+[05Jul2025 16:49:11.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> mamita
+[05Jul2025 16:49:18.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> encontre el jefe mas facil del end
+[05Jul2025 16:49:18.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> ya lo mate
+[05Jul2025 16:49:22.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> xd
+[05Jul2025 16:49:27.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> con el arco muere de 6 flechazos
+[05Jul2025 16:49:48.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> wuaoss

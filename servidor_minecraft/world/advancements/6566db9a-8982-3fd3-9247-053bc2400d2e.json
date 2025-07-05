@@ -6862,6 +6862,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-05 16:45:54 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2025-07-05 16:39:07 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:end/obsidilith_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:obsidilith": "2025-07-05 16:25:13 +0000"
