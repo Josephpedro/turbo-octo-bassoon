@@ -7542,9 +7542,21 @@
     },
     "done": true
   },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2025-07-05 17:27:01 +0000"
+    },
+    "done": true
+  },
   "mca:hunted": {
     "criteria": {
       "iron": "2025-07-05 17:20:38 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-07-05 17:22:27 +0000"
     },
     "done": true
   },
