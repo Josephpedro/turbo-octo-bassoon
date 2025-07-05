@@ -502,3 +502,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [05Jul2025 15:25:39.965] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [05Jul2025 15:25:39.967] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [05Jul2025 15:27:48.137] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[05Jul2025 15:30:07.828] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[05Jul2025 15:41:44.577] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[05Jul2025 15:45:40.225] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
