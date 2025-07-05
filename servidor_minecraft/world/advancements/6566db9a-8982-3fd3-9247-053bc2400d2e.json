@@ -6859,5 +6859,18 @@
     },
     "done": true
   },
+  "mofus_better_end_:cryostone_castle_advancement": {
+    "criteria": {
+      "cryostone_castle_advancement_0": "2025-07-05 16:15:04 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:blood_star_forest_advancement": {
+    "criteria": {
+      "blood_star_forest_advancement_0": "2025-07-05 16:08:51 +0000",
+      "blood_star_forest_advancement_1": "2025-07-05 16:08:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
