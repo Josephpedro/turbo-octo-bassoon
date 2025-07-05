@@ -1921,3 +1921,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [05Jul2025 18:00:42.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/73409, l='ServerLevel[world]', x=2013.17, y=235.01, z=3817.32] died: Dinnerbone was shot by Maxisccs
 [05Jul2025 18:00:44.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/73218, l='ServerLevel[world]', x=2014.58, y=235.01, z=3816.30] died: Dinnerbone was shot by Maxisccs
 [05Jul2025 18:00:45.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/73408, l='ServerLevel[world]', x=2008.73, y=235.01, z=3818.82] died: Dinnerbone was shot by Maxisccs
+[05Jul2025 18:02:38.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/74844, l='ServerLevel[world]', x=2014.36, y=243.01, z=3823.95] died: Dinnerbone was shot by Maxisccs
+[05Jul2025 18:02:39.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/74781, l='ServerLevel[world]', x=2016.54, y=243.01, z=3824.53] died: Dinnerbone was shot by Dinnerbone
+[05Jul2025 18:02:42.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/74601, l='ServerLevel[world]', x=2009.15, y=243.01, z=3816.90] died: Dinnerbone was shot by Maxisccs
+[05Jul2025 18:02:44.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/74843, l='ServerLevel[world]', x=2009.65, y=243.01, z=3819.51] died: Dinnerbone was shot by Maxisccs
+[05Jul2025 18:02:47.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/74602, l='ServerLevel[world]', x=2018.66, y=243.01, z=3817.47] died: Dinnerbone was shot by Dinnerbone
+[05Jul2025 18:02:47.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/74708, l='ServerLevel[world]', x=2018.25, y=243.01, z=3816.72] died: Dinnerbone was shot by Maxisccs
+[05Jul2025 18:03:02.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/75197, l='ServerLevel[world]', x=2011.67, y=243.01, z=3821.30] died: Dinnerbone was shot by Maxisccs
+[05Jul2025 18:03:04.121] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[05Jul2025 18:04:15.671] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/75062, l='ServerLevel[world]', x=1999.75, y=251.01, z=3806.80] died: Dinnerbone was shot by Dinnerbone
+[05Jul2025 18:04:16.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/75061, l='ServerLevel[world]', x=2000.50, y=251.01, z=3806.62] died: Dinnerbone was burnt to a crisp whilst fighting Maxisccs
+[05Jul2025 18:04:29.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/75060, l='ServerLevel[world]', x=2003.06, y=251.01, z=3808.76] died: Dinnerbone was shot by Maxisccs
+[05Jul2025 18:06:11.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 18575.500000, 31.500000, 13036.500000]
+[05Jul2025 18:06:15.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> MAMAGUEVO
+[05Jul2025 18:06:18.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> ME CAI AL VACIO
+[05Jul2025 18:06:22.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> XD
+[05Jul2025 18:06:24.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> ME TEPIE A TIEMPO
+[05Jul2025 18:06:32.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> me bajo 5 corazones de golpe el vacio
+[05Jul2025 18:06:37.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> me cague
+[05Jul2025 18:06:58.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> spgt
+[05Jul2025 18:07:07.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> mucho end
+[05Jul2025 18:07:09.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> por hoy
+[05Jul2025 18:07:12.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to Maxisccs]
+[05Jul2025 18:07:12.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BruhYoichi has made the advancement [Super Creeps]
+[05Jul2025 18:07:12.957] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[05Jul2025 18:07:22.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> q
+[05Jul2025 18:07:28.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> y esto
+[05Jul2025 18:07:43.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> una linda estructure
+[05Jul2025 18:07:55.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> ya la viste td?
+[05Jul2025 18:08:11.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> na
+[05Jul2025 18:08:39.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> faltan algunos pisos abajo pero ya me aburri
+[05Jul2025 18:08:53.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> ya ve
+[05Jul2025 18:08:55.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> ya veo
+[05Jul2025 18:09:23.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> ya saque hilo
+[05Jul2025 18:10:09.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> q saca hilo
+[05Jul2025 18:10:15.900] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/77241, l='ServerLevel[world]', x=1992.50, y=291.01, z=3822.36] died: Dinnerbone was slain by BruhYoichi
+[05Jul2025 18:10:21.991] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/77242, l='ServerLevel[world]', x=1994.98, y=291.01, z=3824.89] died: Dinnerbone was slain by BruhYoichi
+[05Jul2025 18:10:28.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> hice tmb una mejora para meter bolsos en bolsos
+[05Jul2025 18:10:42.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> ahora tengo el mundo entero en mi poder
+[05Jul2025 18:10:56.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> a pues
+[05Jul2025 18:11:04.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> ahora podre guardar el mundo entero si me da la gana
+[05Jul2025 18:11:05.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> ahora derrota algun jefe para completar td
+[05Jul2025 18:11:07.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> q
+[05Jul2025 18:11:14.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> claro wn
+[05Jul2025 18:11:19.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> haces bolsos de diamante
+[05Jul2025 18:11:29.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> y esos bolsos cuando se llenen los metes ahi
+[05Jul2025 18:11:32.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> y te haces otro
+[05Jul2025 18:11:54.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> mamita
+[05Jul2025 18:12:01.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> soy una maquina
+[05Jul2025 18:12:07.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> mastodonte
+[05Jul2025 18:12:16.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> solo necesite una estrella del end
+[05Jul2025 18:12:21.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> y unas cositas mas es facil
