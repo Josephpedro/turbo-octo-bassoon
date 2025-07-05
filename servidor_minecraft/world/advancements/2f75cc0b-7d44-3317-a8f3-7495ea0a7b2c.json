@@ -7524,5 +7524,35 @@
     },
     "done": true
   },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-07-05 17:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-05 16:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-05 16:49:00 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-07-05 17:20:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-07-05 17:07:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

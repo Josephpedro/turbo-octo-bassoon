@@ -375,6 +375,7 @@
       "cooked_beef": "2025-06-28 22:47:34 +0000",
       "porkchop": "2025-06-28 23:21:19 +0000",
       "apple": "2025-06-28 22:31:29 +0000",
+      "cooked_cod": "2025-07-05 16:58:54 +0000",
       "pumpkin_pie": "2025-07-01 21:49:39 +0000",
       "golden_apple": "2025-06-29 00:04:34 +0000",
       "bread": "2025-06-29 00:58:48 +0000",
@@ -6862,11 +6863,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "cataclysm:find_ruined_citadel": {
     "criteria": {
-      "requirement": "2025-07-05 16:45:54 +0000"
+      "citadel": "2025-07-05 17:02:45 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-07-05 17:18:11 +0000"
+    },
+    "done": true
   },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
@@ -6886,6 +6893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-07-05 17:18:11 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/mob_ward": {
     "criteria": {
       "has_obsidian_heart": "2025-07-05 16:25:35 +0000"
@@ -6895,6 +6908,18 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2025-07-05 16:26:24 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-07-05 17:04:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-07-05 16:47:25 +0000"
     },
     "done": true
   },
@@ -6922,6 +6947,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-07-05 17:11:39 +0000"
+    },
+    "done": true
+  },
   "mofus_better_end_:blood_star_forest_advancement": {
     "criteria": {
       "blood_star_forest_advancement_0": "2025-07-05 16:08:51 +0000",
@@ -6941,6 +6972,12 @@
     },
     "done": true
   },
+  "ragnagoblin:end/hurt_goblin": {
+    "criteria": {
+      "hurt_goblin": "2025-07-05 17:13:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2025-07-05 16:26:24 +0000"
@@ -6950,6 +6987,24 @@
   "mofus_better_end_:end_labyrinth_advancement": {
     "criteria": {
       "end_labyrinth_advancement_0": "2025-07-05 16:21:53 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:ender_guardian": "2025-07-05 17:11:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-07-05 17:18:11 +0000"
+    },
+    "done": true
+  },
+  "ragnagoblin:end/kill_goblin": {
+    "criteria": {
+      "kill_goblin": "2025-07-05 17:13:32 +0000"
     },
     "done": true
   },
