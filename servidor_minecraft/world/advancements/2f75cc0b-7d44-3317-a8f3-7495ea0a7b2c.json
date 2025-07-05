@@ -7542,6 +7542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 17:37:11 +0000"
+    },
+    "done": true
+  },
   "mca:baby": {
     "criteria": {
       "baby": "2025-07-05 17:27:01 +0000"
@@ -7554,15 +7560,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-05 17:37:11 +0000"
+    },
+    "done": true
+  },
   "mca:marriage": {
     "criteria": {
       "iron": "2025-07-05 17:22:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 17:37:11 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mechanical_nest": {
     "criteria": {
       "location0": "2025-07-05 17:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 17:37:11 +0000"
     },
     "done": true
   },

@@ -6476,3 +6476,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [05Jul2025 17:30:55.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jul2025 17:31:23.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> gg ezeta
 [05Jul2025 17:31:34.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> ez
+[05Jul2025 17:31:40.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> ya me tpeo
+[05Jul2025 17:31:51.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to Maxisccs]
+[05Jul2025 17:31:52.207] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[05Jul2025 17:32:32.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> q
+[05Jul2025 17:32:36.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> ta frito
+[05Jul2025 17:32:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> ya va
+[05Jul2025 17:34:07.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> bro se la diste tu
+[05Jul2025 17:34:11.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> aja
+[05Jul2025 17:34:18.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> mira al sobrino
+[05Jul2025 17:34:22.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> q
+[05Jul2025 17:34:27.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> mamita
+[05Jul2025 17:34:33.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> y el kunigami?
+[05Jul2025 17:34:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> es el
+[05Jul2025 17:34:40.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> q
+[05Jul2025 17:34:46.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> mamita
+[05Jul2025 17:34:54.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> el pequeño kunigami
+[05Jul2025 17:34:59.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> ahora cuando crezca
+[05Jul2025 17:35:02.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> le pones skin
+[05Jul2025 17:35:04.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> s
+[05Jul2025 17:35:16.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> bueno seguire por ahi
+[05Jul2025 17:35:19.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> dl ve
+[05Jul2025 17:35:24.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> hasta encontrar algo top global
+[05Jul2025 17:35:27.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 434.500000, -17.500000, 4727.500000]
+[05Jul2025 17:35:34.444] [Server thread/INFO] [do_a_barrel_roll/]: Client of BruhYoichi accepted server config.
+[05Jul2025 17:35:37.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BruhYoichi: Teleported BruhYoichi to 18575.500000, 31.500000, 13036.500000]
+[05Jul2025 17:35:41.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1768.500000, 294.500000, 3867.500000]
+[05Jul2025 17:35:55.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 17:35:55.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 17:37:16.606] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[05Jul2025 17:38:43.832] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CDataParameter
+[05Jul2025 17:38:43.832] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[05Jul2025 17:38:43.832] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[05Jul2025 17:40:55.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 17:40:55.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
