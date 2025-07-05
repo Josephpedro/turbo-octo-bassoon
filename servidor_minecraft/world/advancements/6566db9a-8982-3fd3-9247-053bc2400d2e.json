@@ -6421,9 +6421,27 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_slab_from_polished_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_bricks_from_polished_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-07-05 02:39:56 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tiles_from_polished_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
     },
     "done": true
   },
@@ -6436,6 +6454,18 @@
   "mca:recipes/decorations/magenta_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-07-05 02:39:56 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_polished_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs_from_polished_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
     },
     "done": true
   },
@@ -6469,9 +6499,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_wall": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-07-05 02:39:56 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_bricks": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
     },
     "done": true
   },
@@ -6517,9 +6559,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_polished_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-07-05 02:40:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_wall_from_polished_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
     },
     "done": true
   },
@@ -6580,6 +6634,12 @@
   "mca:recipes/decorations/light_blue_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-07-05 02:40:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_slab": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
     },
     "done": true
   },
@@ -6655,9 +6715,27 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab_from_polished_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_polished_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-07-05 02:40:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
     },
     "done": true
   },
@@ -6691,6 +6769,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_polished_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-05 02:40:02 +0000"
@@ -6718,6 +6802,12 @@
   "mca:recipes/decorations/pink_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-07-05 02:40:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_slab_from_polished_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_polished_sculk_stone": "2025-07-05 03:04:19 +0000"
     },
     "done": true
   },
