@@ -553,3 +553,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [05Jul2025 00:55:32.199] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [05Jul2025 00:55:32.201] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [05Jul2025 01:12:24.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1768.500000, 294.500000, 3867.500000]
+[05Jul2025 01:20:04.847] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:eye_of_ender_located (minecraft:stronghold) took 26 ms
+[05Jul2025 01:25:35.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs lost connection: Disconnected
+[05Jul2025 01:25:35.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
