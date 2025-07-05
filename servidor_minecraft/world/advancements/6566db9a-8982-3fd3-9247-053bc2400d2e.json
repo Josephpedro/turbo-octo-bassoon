@@ -6880,6 +6880,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-07-05 16:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-05 16:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-07-05 16:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-05 16:26:24 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
       "has_obsidian_heart": "2025-07-05 16:25:35 +0000"
@@ -6890,6 +6914,24 @@
     "criteria": {
       "blood_star_forest_advancement_0": "2025-07-05 16:08:51 +0000",
       "blood_star_forest_advancement_1": "2025-07-05 16:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-07-05 16:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-05 16:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-07-05 16:26:24 +0000"
     },
     "done": true
   },
@@ -6920,6 +6962,18 @@
   "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-05 16:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-05 16:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-05 16:26:00 +0000"
     },
     "done": true
   },
