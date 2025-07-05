@@ -6510,3 +6510,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [05Jul2025 17:38:43.832] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
 [05Jul2025 17:40:55.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 17:40:55.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 17:45:58.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 17:45:58.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 17:45:58.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BruhYoichi moved too quickly! -1.0209509626220097,-10.010201052015518,-3.2988861460380576
+[05Jul2025 17:45:58.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3856ms or 77 ticks behind
+[05Jul2025 17:46:23.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> me encontre full cosas de netherita
+[05Jul2025 17:46:36.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> q crack
+[05Jul2025 17:46:49.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> tengo una espada de netherita sin encantar y hace 11 de daño
+[05Jul2025 17:47:04.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> verga
+[05Jul2025 17:47:17.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> luego q venga carlitos le debo preguntar como activar un boss
+[05Jul2025 17:47:20.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> q lit esta durmiendo
+[05Jul2025 17:47:35.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> hay q ver
+[05Jul2025 17:49:15.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1768.500000, 294.500000, 3867.500000]
+[05Jul2025 17:49:41.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Maxisccs: Teleported Maxisccs to 1758.500000, 294.500000, 3868.500000]
+[05Jul2025 17:50:24.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> q
+[05Jul2025 17:50:32.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BruhYoichi> hay librerias q directamente te dan encantamiento
+[05Jul2025 17:50:47.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxisccs> a
+[05Jul2025 17:50:59.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 17:50:59.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
