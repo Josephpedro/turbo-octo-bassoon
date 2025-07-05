@@ -953,14 +953,17 @@
       "minecraft:vindicator": "2025-06-29 04:05:10 +0000",
       "minecraft:spider": "2025-06-28 22:49:15 +0000",
       "minecraft:creeper": "2025-06-29 03:07:59 +0000",
+      "minecraft:evoker": "2025-07-05 16:17:50 +0000",
       "minecraft:phantom": "2025-06-29 03:05:41 +0000",
       "minecraft:zombified_piglin": "2025-06-30 03:44:16 +0000",
       "minecraft:witch": "2025-06-29 03:49:48 +0000",
       "minecraft:wither_skeleton": "2025-06-30 03:46:23 +0000",
+      "minecraft:shulker": "2025-07-05 16:20:40 +0000",
       "minecraft:cave_spider": "2025-06-29 00:44:45 +0000",
       "minecraft:stray": "2025-06-29 00:51:34 +0000",
       "minecraft:enderman": "2025-06-30 01:50:15 +0000",
       "minecraft:silverfish": "2025-07-01 01:51:58 +0000",
+      "minecraft:vex": "2025-07-05 16:17:33 +0000",
       "minecraft:zombie": "2025-06-28 22:48:27 +0000"
     },
     "done": false
@@ -6859,9 +6862,27 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:end/obsidilith_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:obsidilith": "2025-07-05 16:25:13 +0000"
+    },
+    "done": true
+  },
   "mofus_better_end_:cryostone_castle_advancement": {
     "criteria": {
       "cryostone_castle_advancement_0": "2025-07-05 16:15:04 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_obsidian_heart": "2025-07-05 16:25:35 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_obsidian_heart": "2025-07-05 16:25:35 +0000"
     },
     "done": true
   },
@@ -6869,6 +6890,36 @@
     "criteria": {
       "blood_star_forest_advancement_0": "2025-07-05 16:08:51 +0000",
       "blood_star_forest_advancement_1": "2025-07-05 16:08:53 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:end_labyrinth_advancement": {
+    "criteria": {
+      "end_labyrinth_advancement_0": "2025-07-05 16:21:53 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_obsidian_heart": "2025-07-05 16:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-07-05 16:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-07-05 16:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-05 16:20:58 +0000"
     },
     "done": true
   },
