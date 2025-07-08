@@ -706,3 +706,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [08Jul2025 17:57:20.969] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [794, 680], pos: BlockPos{x=12704, y=201, z=10893}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / mofus_better_end_:root_island_1]
 [08Jul2025 17:58:08.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Will'/8694, l='ServerLevel[world]', x=12401.50, y=69.00, z=10891.50] died: Will was shot by Maxisccs
 [08Jul2025 17:59:20.243] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Jul2025 18:04:43.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxisccs lost connection: Disconnected
+[08Jul2025 18:04:43.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxisccs left the game
